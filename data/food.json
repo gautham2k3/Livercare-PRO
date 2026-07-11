@@ -1,0 +1,144 @@
+[
+  {
+    "id": 1,
+    "name": "Apple",
+    "category": "Fruit",
+    "status": "safe",
+    "icon": "🍎",
+    "calories": 52,
+    "reason": "Easy to digest and rich in antioxidants.",
+    "recommended": true
+  },
+  {
+    "id": 2,
+    "name": "Banana",
+    "category": "Fruit",
+    "status": "safe",
+    "icon": "🍌",
+    "calories": 89,
+    "reason": "Provides energy and is gentle on the stomach.",
+    "recommended": true
+  },
+  {
+    "id": 3,
+    "name": "Papaya",
+    "category": "Fruit",
+    "status": "safe",
+    "icon": "🥭",
+    "calories": 43,
+    "reason": "Supports digestion and recovery.",
+    "recommended": true
+  },
+  {
+    "id": 4,
+    "name": "Watermelon",
+    "category": "Fruit",
+    "status": "safe",
+    "icon": "🍉",
+    "calories": 30,
+    "reason": "Hydrating and easy to digest.",
+    "recommended": true
+  },
+  {
+    "id": 5,
+    "name": "Rice",
+    "category": "Grain",
+    "status": "safe",
+    "icon": "🍚",
+    "calories": 130,
+    "reason": "Simple carbohydrate suitable during recovery.",
+    "recommended": true
+  },
+  {
+    "id": 6,
+    "name": "Oats",
+    "category": "Grain",
+    "status": "safe",
+    "icon": "🥣",
+    "calories": 68,
+    "reason": "High in soluble fiber and easy to digest.",
+    "recommended": true
+  },
+  {
+    "id": 7,
+    "name": "Moong Dal",
+    "category": "Protein",
+    "status": "safe",
+    "icon": "🫘",
+    "calories": 105,
+    "reason": "Light protein source.",
+    "recommended": true
+  },
+  {
+    "id": 8,
+    "name": "Curd",
+    "category": "Dairy",
+    "status": "moderate",
+    "icon": "🥛",
+    "calories": 98,
+    "reason": "Low-fat curd is fine in moderation."
+  },
+  {
+    "id": 9,
+    "name": "Coffee",
+    "category": "Drink",
+    "status": "avoid",
+    "icon": "☕",
+    "calories": 2,
+    "reason": "Can contribute to dehydration during recovery."
+  },
+  {
+    "id": 10,
+    "name": "Pizza",
+    "category": "Fast Food",
+    "status": "avoid",
+    "icon": "🍕",
+    "calories": 266,
+    "reason": "High in fat and difficult for the liver to process."
+  },
+  {
+    "id": 11,
+    "name": "Fried Chicken",
+    "category": "Fast Food",
+    "status": "avoid",
+    "icon": "🍗",
+    "calories": 320,
+    "reason": "High oil content."
+  },
+  {
+    "id": 12,
+    "name": "Coconut Water",
+    "category": "Drink",
+    "status": "safe",
+    "icon": "🥥",
+    "calories": 19,
+    "reason": "Excellent hydration."
+  },
+  {
+    "id": 13,
+    "name": "Idli",
+    "category": "Breakfast",
+    "status": "safe",
+    "icon": "🥟",
+    "calories": 58,
+    "reason": "Light, steamed, and easy to digest."
+  },
+  {
+    "id": 14,
+    "name": "Parotta",
+    "category": "Breakfast",
+    "status": "avoid",
+    "icon": "🫓",
+    "calories": 300,
+    "reason": "Usually prepared with excess oil."
+  },
+  {
+    "id": 15,
+    "name": "Boiled Egg",
+    "category": "Protein",
+    "status": "moderate",
+    "icon": "🥚",
+    "calories": 78,
+    "reason": "Can be eaten in moderation if advised by your doctor."
+  }
+]
